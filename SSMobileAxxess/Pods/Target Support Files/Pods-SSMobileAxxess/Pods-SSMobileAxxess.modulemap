@@ -1,0 +1,6 @@
+framework module Pods_SSMobileAxxess {
+  umbrella header "Pods-SSMobileAxxess-umbrella.h"
+
+  export *
+  module * { export * }
+}

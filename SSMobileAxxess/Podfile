@@ -1,0 +1,13 @@
+target 'SSMobileAxxess' do
+
+ use_frameworks!
+
+  pod 'RealmSwift'
+  pod 'RealmSwift'
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'Alamofire', '~> 5.2' 
+  pod 'SwiftSpinner'
+  pod 'Kingfisher', '~> 4.0'
+
+end
+
